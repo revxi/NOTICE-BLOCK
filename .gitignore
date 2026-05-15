@@ -1,4 +1,7 @@
 node_modules
-dist
 .env
-.vite
+dist
+build
+uploads
+.vscode
+.DS_Store

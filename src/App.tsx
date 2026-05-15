@@ -1,5 +1,5 @@
 import { Shield, Lock, FileText, Bell, CheckCircle2, ArrowRight, Sparkles, Globe, Clock, TrendingUp, Award, BookOpen } from 'lucide-react';
-import universityLogo from '../imports/image.png';
+import universityLogo from './assets/universityLogo.png';
 
 export default function App() {
   return (
